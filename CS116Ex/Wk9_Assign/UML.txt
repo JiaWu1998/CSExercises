@@ -1,0 +1,72 @@
+Note: Im suppose to italicize the abstract things but the italicize option only italicize for the whole text document, it can't italicize just a part
+
+(abstract)Shape
+---------------
+-dimension: String
+---------------
+(abstract)+calcArea(): double
+(abstract)+calcPerimeter(): double
+(abstract)+toString(): String
+*These are the methods that the three sub class have in similarity which can override the superclass' methods
+---------------------
+note: all of the three subclass are pointed at the shape class
+        ^
+        |
+        |
+        |
+        |
+        |
+        |
+        |
+        |
+        |
+Rectangle
+--------------------
+-length: int
+-width: int
+--------------------
++Rectangle()
++Rectangle(len:int,wid:int)
++setLength(leng:int): void
++getLength(): int
++setWidth(widt:int): void
++getWidth(): int
++calcArea(): double
++calcPerimeter(): double
++equals(rec1:Rectangle): boolean
++toString(): String
++compareTo(obj: Object): int
+--------------------
+
+RightTriangle
+--------------------
+-base: int
+-height: int
+--------------------
++RightTriangle()
++RightTriangle(bas:int,hei:int)
++setBase(basse:int): void
++getBase(): int
++setHeight(heig:int): void
++getHeight(): int
++calcArea(): double
++calcPerimeter(): double
++equals(tri1:RightTriangle): boolean
++toString(): String
++compareTo(obj: Object): int
+--------------------
+
+Circle
+--------------------
+-PI: double
+-radius: int
+--------------------
++Circle()
++Circle(rad:int)
++setRadius(radi:int): void
++getRadius(): int
++calcArea(): double
++calcPerimeter(): double
++equals(cir1:Circle): boolean
++toString(): String
++compareTo(obj: Object): int

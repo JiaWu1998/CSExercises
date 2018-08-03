@@ -1,0 +1,36 @@
+Exercise 5: UML Diagram
+
+
+Circle
+--------------
+-double PI
+-double radius
+-double area
+--------------
++Circle()
++Circle(double)
++setRadius(double)
++getRadius():double
++calcArea():double
++calcCircumference():double
++toString():String
++equals(Circle): boolean
++compareTo(Circle): int
+
+         ^
+         |
+         |
+         |
+Cylinder
+-----------------
+-double depth
+-double volume
+-----------------
++Cylinder()
++Cylinder(double)
++Cylinder(double,double)
++setDepth(double)
++getDepth():double
++calcVolume():double
++toString():String
++equals(Cylinder): boolean

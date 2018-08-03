@@ -1,0 +1,68 @@
+Bartleby the Scrivener,Melville Herman,9781480255418,Heritage Press,Book,13.48,3
+Selected Tales,Poe Edgar Allan,9780199535774,Heritage Press,Book,8.45,1
+Candide,Voltaire,9783293000902,Heritage Press,Book,2.59,1
+The Color Purple,Walker Alice,9783293000926,Heritage Press,Book,13.48,6
+To the Lighthouse,Woolf Virginia,0763716677,Heritage Press,Book,5.39,1
+The Odyssey,Homer,9783293000407,Heritage Press,Book,4.74,2
+Beloved,Morrison Toni,9783293000582,Heritage Press,Book,13.48,6
+The Catcher in the Rye,Salinger J.D.,9783293000704,Heritage Press,Book,13.48,8
+Walden,Thoreau Henry David,9783293000865,Heritage Press,Book,3.75,4
+The Red Badge of Courage,Crane Stephen,9783293000155,Modern Library,Book,6.49,2
+Pride and Prejudice,Austen Jane,3293000037,Penguin Classics,Book,17.2,1
+The Awakening,Chopin Kate,9783293000124,Penguin Classics,Book,4.96,9
+Robinson Crusoe ,Defoe Daniel,9783293000186,Penguin Classics,Book,4.34,5
+Selected Essays,Emerson Ralph Waldo,9783293000261,Penguin Classics,Book,3.66,2
+The Iliad,Homer,0763725714,Penguin Classics,Book,2.78,5
+To Kill a Mockingbird,Lee Harper,9783293000506,Penguin Classics,Book,9.34,2
+Animal Farm,Orwell George,9783293000612,Penguin Classics,Book,5.43,3
+Romeo and Juliet,Shakespeare William,0763731994,Penguin Classics,Book,5.78,5
+Collected Stories,Welty Eudora,9783293000940,Penguin Classics,Book,4.44,2
+Native Son,Wright Richard,9783293000995,Penguin Classics,Book,2.54,3
+As I Lay Dying,Faulkner William,9783293000278,Penguin Classics,Book,6.49,6
+Tess of the d'Urbervilles,Hardy Thomas,3293000363,Penguin Classics,Book,5.39,3
+The Woman Warrior,Kingston Maxine Hong,9783293000490,Penguin Classics,Book,4.67,3
+Pygmalion,Shaw George Bernard,9783293000759,Penguin Classics,Book,4.62,2
+Vanity Fair,Thackeray William,9783293000858,Penguin Classics,Book,4.59,3
+Slaughterhouse-Five,Vonnegut Kurt Jr.,9783293000919,Penguin Classics,Book,5.85,3
+The House of Mirth,Wharton Edith,9783293000933,Penguin Classics,Book,6.46,3
+Go Tell It on the Mountain,Baldwin James,3293000045,Quality Paperba,Book,11.17,-3
+The Turn of the Screw,James Henry,9780073193335,Quality Paperba,Book,4.67,3
+Babbitt,Lewis Sinclair,9783293000513,Grossett & Dunlap,Book,6.49,2
+All Quiet on the Western Front,Remarque Erich Maria,9783293000674,Quality Paperba,Book,3.78,2
+The Grapes of Wrath,Steinbeck John,0619217200,Quality Paperba,Book,6.49,3
+The Last of the Mohicans,Cooper James Fenimore,9783293000148,Random House,Book,9.53,2
+Crime and Punishment,Dostoyevsky Fyodor,9783293000209,Random House,Book,4.33,2
+A Farewell to Arms,Hemingway Ernest,9780070131514,Random House,Book,3.85,4
+A Portrait of the Artist as a Young Man,Joyce James,9783293000476,Random House,Book,3.67,-2
+Antigone,Sophocles,9783293000797,Random House,Book,6.59,3
+Fathers and Sons,Turgenev Ivan,3293000894,Random House,Book,5.39,1
+Leaves of Grass,Whitman Walt,9783293000957,Random House,Book,5.39,7
+The Sound and the Fury,Faulkner William,9783293000285,Random House,Book,6.38,4
+The Metamorphosis ,Kafka Franz,9783293000483,Random House,Book,3.78,-1
+Moby Dick ,Melville Herman,3293000576,Random House,Book,3.62,2
+Macbeth,Shakespeare William,9783293000728,Random House,Book,6.75,5
+War and Peace,Tolstoy Leo,9783293000872,Random House,Book,4.86,2
+The Adventures of Augie March ,Bellow Saul,9783293000056,Viking Press,Book,13.6,7
+Don Quixote,de Cervantes Miguel,9783293000179,Viking Press,Book,9.39,3
+Narrative of the Life of Frederick Douglass,Douglass Frederick,9783293000216,Viking Press,Book,8.45,1
+Their Eyes Were Watching God,Hurston Zora Neale,9783293000421,Viking Press,Book,2.87,3
+The Magic Mountain,Mann Thomas,3293000541,Viking Press,Book,2.45,5
+Cyrano de Bergerac,Rostand Edmond,9783293000681,Viking Press,Book,5.39,3
+Call It Sleep,Roth Henry,9783293000698,Viking Press,Book,4.63,5
+Lord of the Flies ,Golding William,9783293000346,Viking Press,Book,3.58,1
+One Hundred Years of Solitude,Marquez Gabriel Garc｛,0763747688,Viking Press,Book,3.68,6
+Hamlet,Shakespeare William,9783293000711,Viking Press,Book,4.62,4
+Frankenstein,Shelley Mary,9783293000766,Viking Press,Book,5.63,3
+A Death in the Family,Agee James,3293000029,Vintage Books,Book,9.75,3
+The Canterbury Tales,Chaucer Geoffrey,9783293000100,Vintage Books,Book,8.84,4
+Heart of Darkness,Conrad Joseph,9783293000131,Vintage Books,Book,5.39,1
+The Three Musketeers,Dumas Alexandre,9783293000230,Vintage Books,Book,5.49,2
+Faust,Goethe Johann Wolfgang von,0471430595,Vintage Books,Book,2.48,3
+The Crucible,Miller Arthur,0142437336,Vintage Books,Book,6.33,4
+Uncle Tom's Cabin,Stowe Harriet Beecher,9783293000834,Vintage Books,Book,3.87,2
+Gulliver's Travels,Swift Jonathan,9783293000841,Vintage Books,Book,6.62,4
+The Picture of Dorian Gray,Wilde Oscar,9783293000964,Vintage Books,Book,5.38,2
+The Good Soldier,Ford Ford Madox,3293000339,Vintage Books,Book,3.78,2
+Doctor Zhivago,Pasternak Boris,9783293000629,Vintage Books,Video,4.67,1
+Oedipus Rex,Sophocles,9783293000803,Vintage Books,Book,3.6,4
+Treasure Island,Stevenson Robert Louis,9783293000827,Vintage Books,Book,13.48,4
