@@ -1,0 +1,50 @@
+manufacturer=3Com,model=-,login=root,pass=letmein
+manufacturer=3Com,model=Super Stack 2 Switch,login=manager,pass=manager
+manufacturer=3com,model=NBX100,login=administrator,pass=0
+manufacturer=3com,model=Home Connect,login=User,pass=Password
+manufacturer=3Com,model=SuperStack II Switch 3300,login=manager,pass=manager
+manufacturer=ACC,model=Routers,login=netman,pass=netman
+manufacturer=Acc/Newbridge,model=Congo/Amazon/Tigris,login=netman,pass=netman
+manufacturer=Adaptec RAID,model=Storage Manager Pro,login=Administrator,pass=adaptec
+manufacturer=Alcatel/Newbridge/Timestep,model=VPN Gateway 15xx/45xx/7xxx,login=root,pass=permit
+manufacturer=Alcatel/Newbridge/Timestep,model=VPN Gateway 15xx/,login=root,pass=permit
+manufacturer=Allied Tenysin,model=R130,login=Manager,pass=friend
+manufacturer=Alteon,model=ACEswitch 180e (telnet),login=admin,pass=blank
+manufacturer=Alteon Web Systems,model=All hardware releases,login=none,pass=admin
+manufacturer=APC,model=MasterSwitches,login=apc,pass=apc
+manufacturer=APC,model=Any,login=apcuser,pass=apc
+manufacturer=Apple,model=Airport,login=none,pass=public
+manufacturer=Bay Networks,model=ASN / ARN Routers,login=Manager,pass=Manager
+manufacturer=Ericsson (formerly ACC),model=Any router,login=netman,pass=netman
+manufacturer=Hewlett Packard,model=HP Jetdirect (All Models),login=none,pass=none
+manufacturer=Hewlett Packard,model=MPE-XL,login=HELLO,pass=MANAGER.SYS
+manufacturer=Hewlett Packard,model=MPE-XL,login=HELLO,pass=MGR.SYS
+manufacturer=IBM,model=LAN Server / OS/2,login=username,pass=password
+manufacturer=IBM,model=2210,login=def,pass=trade
+manufacturer=IBM,model=DB2,login=db2admin,pass=db2admin
+manufacturer=IBM,model=Lotus Domino Go WebServer (net.commerce edition),login=webadmin,pass=webibm
+manufacturer=IBM,model=AS400,login=QSECOFR,pass=QSECOFR
+manufacturer=IBM,model=RS/6000,login=root,pass=ibm
+manufacturer=IBM,model=-,login=QSECOFR,pass=QSECOFR
+manufacturer=Lantronix,model=LPS1-T Print Server,login=any,pass=system
+manufacturer=LGIC,model=Goldstream,login=LR-ISDN,pass=LR-ISDN
+manufacturer=Linksys,model=BEFSR41,login=(blank),pass=admin
+manufacturer=Livingston,model=Livingston_portmaster2/3,login=!root,pass=blank
+manufacturer=Livingston,model=Livingston_officerouter,login=!root,pass=blank
+manufacturer=Lucent,model=Portmaster 2,login=!root,pass=none
+manufacturer=Lucent,model=Packetstar (PSAX),login=readwrite,pass=lucenttech1
+manufacturer=Microsoft,model=Windows NT,login=pkoolt,pass=pkooltPS
+manufacturer=Microsoft,model=Windows NT,login=admin,pass=admin
+manufacturer=MICROSOFT,model=NT,login=free user,pass=user
+manufacturer=Motorola,model=Motorola-Cablerouter,login=cablecom,pass=router
+manufacturer=Optivision,model=Nac 3000 & 4000,login=root,pass=mpegvideo
+manufacturer=Oracle,model=8i,login=sys,pass=change_on_install
+manufacturer=Oracle,model=Internet Directory Service,login=cn=orcladmin,pass=welcome
+manufacturer=Oracle,model=7 or later,login=system,pass=manager
+manufacturer=Oracle,model=7 or later,login=sys,pass=change_on_install
+manufacturer=oracle co.,model=Database engines,login=sys,pass=change_on_install
+manufacturer=Osicom(Datacom),model=Osicom(Datacom),login=sysadm,pass=sysadm
+manufacturer=Pandatel,model=EMUX,login=admin,pass=admin
+manufacturer=Xylan,model=Omniswitch,login=admin,pass=switch
+manufacturer=xyplex,model=mx-16xx,login=setpriv,pass=system
+manufacturer=Zyxel,model=ISDN-Router Prestige 1000,login=-,pass=1234

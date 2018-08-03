@@ -1,0 +1,29 @@
+Jiaxing Wu
+
+*Vendor class
+- Vars: private -> Manufacturer,Model,Login,Password
+- Dependencies : Java;
+- classic: public -> accessors, mutators, and a toString method
+- instance: public -> equals and compareTo method
+- equals method compare if Manufacturer name is equal or not
+- compareTo method compare the position of alphabetical order of Manufacturer name
+  Ex: "apple"'s position is before "banana"'s position because 'a' comes before 'b'.
+
+*Application class
+- Dependencies: Java, java.util.Scanner, java.io
+- create default Vendor just for testing
+- First, we need to count how many line/vendors are in the pswds.txt
+- To do so, we need a input stream (from pswds.txt) and a scanner to read from the input stream
+- set a while loop with condition if there is next line to find the count
+- Then, close the scanner object to restart the reading
+- Create second input stream (from pswds.txt) and second scanner object
+- Create Vendor array to hold all vendors (size is count)
+- Create string array for token break down so we can stuff these in the vendor objects
+- Create while loop with condition if scanner object has next line and assign the next lines to the string array. Also create an increment for this process.(I don't really need to cause the count is already there, I can just have a for loop)
+- Main part: create for loop that start with i = 1 (cause first line in pswds.txt is for show) and end with <count.
+- Inside for loop, split string objects in the string array by delimiter ','.
+- Inside for loop, create vendor object with string parameters from the split string objects; these vendor objects will go into the vendor array.
+- Exit loop, do a for loop to display all vendor toString
+- For the writing part, make a try catch in case of FileNotFoundException.
+- Inside those, we just need to create file output stream and a printwriter object to write.
+- Finally, we just need to write all vendor toString in the new output file and flush the write object and close the output stream.
