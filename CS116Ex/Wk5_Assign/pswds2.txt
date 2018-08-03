@@ -1,0 +1,51 @@
+Manufacturer,Model,Login,Password
+3Com,-,root,letmein
+3Com,Super Stack 2 Switch,manager,manager
+3com,NBX100,administrator,0
+3com,Home Connect,User,Password
+3Com,SuperStack II Switch 3300,manager,manager
+ACC,Routers,netman,netman
+Acc/Newbridge,Congo/Amazon/Tigris,netman,netman
+Adaptec RAID,Storage Manager Pro,Administrator,adaptec
+Alcatel/Newbridge/Timestep,VPN Gateway 15xx/45xx/7xxx,root,permit
+Alcatel/Newbridge/Timestep,VPN Gateway 15xx/,root,permit
+Allied Tenysin,R130,Manager,friend
+Alteon,ACEswitch 180e (telnet),admin,blank
+Alteon Web Systems,All hardware releases,none,admin
+APC,MasterSwitches,apc,apc
+APC,Any,apcuser,apc
+Apple,Airport,none,public
+Bay Networks,ASN / ARN Routers,Manager,Manager
+Ericsson (formerly ACC),Any router,netman,netman
+Hewlett Packard,HP Jetdirect (All Models),none,none
+Hewlett Packard,MPE-XL,HELLO,MANAGER.SYS
+Hewlett Packard,MPE-XL,HELLO,MGR.SYS
+IBM,LAN Server / OS/2,username,password
+IBM,2210,def,trade
+IBM,DB2,db2admin,db2admin
+IBM,Lotus Domino Go WebServer (net.commerce edition),webadmin,webibm
+IBM,AS400,QSECOFR,QSECOFR
+IBM,RS/6000,root,ibm
+IBM,-,QSECOFR,QSECOFR
+Lantronix,LPS1-T Print Server,any,system
+LGIC,Goldstream,LR-ISDN,LR-ISDN
+Linksys,BEFSR41,(blank),admin
+Livingston,Livingston_portmaster2/3,!root,blank
+Livingston,Livingston_officerouter,!root,blank
+Lucent,Portmaster 2,!root,none
+Lucent,Packetstar (PSAX),readwrite,lucenttech1
+Microsoft,Windows NT,pkoolt,pkooltPS
+Microsoft,Windows NT,admin,admin
+MICROSOFT,NT,free user,user
+Motorola,Motorola-Cablerouter,cablecom,router
+Optivision,Nac 3000 & 4000,root,mpegvideo
+Oracle,8i,sys,change_on_install
+Oracle,Internet Directory Service,cn=orcladmin,welcome
+Oracle,7 or later,system,manager
+Oracle,7 or later,sys,change_on_install
+oracle co.,Database engines,sys,change_on_install
+Osicom(Datacom),Osicom(Datacom),sysadm,sysadm
+Pandatel,EMUX,admin,admin
+Xylan,Omniswitch,admin,switch
+xyplex,mx-16xx,setpriv,system
+Zyxel,ISDN-Router Prestige 1000,-,1234

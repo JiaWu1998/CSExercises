@@ -1,0 +1,21 @@
+Jiaxing Wu
+
+*Application
+-Do a quick test of all methods
+-Creates different instances to test methods
+
+*Diagnose Class
+-Have 7 parameters with the age, duration, frequency, timeOfDay, quality, location, and associated symptoms.
+-Since, there is a grid requirement to diagnose, we don't care precision.
+-Hence, we make the range of choice from 1-3, 1s being symptoms of Migraine, 2s being symptoms of Tension Headache, and 3s being symptoms of Chronic Daily Headache, and -1s for other things(we don't care about this cause this is the indiscrimate condition)
+-We will ask for the number choice of symptoms(1-3) for all 7 parameters.
+-Finally, we need to compute the condition that the patient has.
+-For this part, there might be a mix up of symptoms.
+-To counteract this problem, we compute the condition by the percentage of the condition's symptom out of the 7 parameters.
+-Hence, we have have the condition with the highest percentage of the patient having it.
+-For the indiscrimated condition, the patient either don't have any of the listed sytompyms or used some of the "other" text fields which has -1 value.
+-Another time that the patient would get a indiscrimated condition is when there is less than 4/7 or 57% of sytompyms of EACH condition.
+
+-For the prompting, I could have just used the Scanner and terminal.
+-But I decided that I don't want a boring interface for the user, so I made a checking survey for this diagnose because it's easier for the user to follow.
+-There is still somethings that I want to add in the interface but ,as for now, it can still complete its purpose.

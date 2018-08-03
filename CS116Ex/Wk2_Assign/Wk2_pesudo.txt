@@ -1,0 +1,23 @@
+Jiaxing Wu
+wk 2 lab
+
+Coin class:
+-Everything is not static cause Coin class is setup for multiple instance.
+-Dependencies: java, java.lang.Math
+-private(doesn't matter cause user knows already) data vars => name of coin, monetary value of coin, and face value of coin when toss
+-public methods =>
+ * default constructor : setups name var to empty and monetary value to 0.
+ * constructor for coin name and monetary value setup
+ * toss function : returns random face value and also saves that up, it could be important?
+ * sumWith function(this. reference) : sums the reference object value with parameter object value.
+ * sumTwo function (no this. reference) : sums object value in parameter 1 to object value in parameter 2.
+ * times function (this. reference) : multiplies the reference object with a int multiplier in parameter.
+ * timesCoin function (no this. reference) : multiplies object value in parameter 1 with the int value in parameter 2.
+
+ Wk2_Assign.java:
+ -Create four Coin instances and one default coin instance
+ -Print the toss results of a coin 5 times
+ -Use the sumWith method 2 times
+ -Use the sumTwo method 1 time
+ -Use the times method 1 time
+ -Use the timesCoin method 1 time

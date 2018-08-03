@@ -1,0 +1,17 @@
+Jiaxing Wu
+
+*VendorList
+- vars --> size of array (constant), object/vendor2 array, and a index
+- all vars above is private
+- have all recommended methods that is provide in the lab
+
+*Application
+- Need a input stream
+- Need a scanner to read from input stream
+- Need a VendorList instance
+- Need a string array token separator for vendor2 set up
+- need a condition where i don't pick the first line on pswds2.txt cause it's a example
+- Now, I need to do a while loop to read all lines from pswds2 and split the lines up and store it in the token split array.
+- Then, I use the vendorlist and use the add method to add new vendors that is set up with the token array.
+- Pretty much that is it. From here on, all the vendorlist method will be tested
+- The rest of the output stream stuff is from the last lab.
