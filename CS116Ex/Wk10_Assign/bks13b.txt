@@ -1,0 +1,20 @@
+Bartleby the Scrivener,Melville Herman,9781480255418,Heritage Press,Book,13.48,3
+Selected Tales,Poe Edgar Allan,9780199535774,Heritage Press,Book,8.45,1
+Candide,Voltaire,9783293000902,Heritage Press,Book,2.59,1
+The Color Purple,Walker Alice,9783293000926,Heritage Press,Book,13.48,6
+To the Lighthouse,Woolf Virginia,0763716677,Heritage Press,Book,5.39,1
+The Odyssey,Homer,9783293000407,Heritage Press,Book,4.74,2
+Beloved,Morrison Toni,9783293000582,Heritage Press,Book,13.48,6
+The Catcher in the Rye,Salinger J.D.,9783293000704,Heritage Press,Book,13.48,8
+Walden,Thoreau Henry David,9783293000865,Heritage Press,Book,3.75,4
+The Red Badge of Courage,Crane Stephen,9783293000155,Modern Library,Book,6.49,2
+Pride and Prejudice,Austen Jane,3293000037,Penguin Classics,Book,17.2,1
+The Awakening,Chopin Kate,9783293000124,Penguin Classics,Book,4.96,9
+Robinson Crusoe ,Defoe Daniel,9783293000186,Penguin Classics,Book,4.34,5
+Selected Essays,Emerson Ralph Waldo,9783293000261,Penguin Classics,Book,3.66,2
+The Iliad,Homer,0763725714,Penguin Classics,Book,2.78,5
+To Kill a Mockingbird,Lee Harper,9783293000506,Penguin Classics,Book,9.34,2
+Animal Farm,Orwell George,9783293000612,Penguin Classics,Book,5.43,3
+Romeo and Juliet,Shakespeare William,0763731994,Penguin Classics,Book,5.78,5
+Collected Stories,Welty Eudora,9783293000940,Penguin Classics,Book,4.44,2
+Native Son,Wright Richard,9783293000995,Penguin Classics,Book,2.54,3

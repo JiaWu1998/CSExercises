@@ -1,0 +1,20 @@
+class ISBN13, Title: Bartleby the Scrivener, ISBN13: 9781480255418, CheckSum Validity: true
+class ISBN13, Title: Selected Tales, ISBN13: 9780199535774, CheckSum Validity: true
+class ISBN13, Title: Candide, ISBN13: 9783293000902, CheckSum Validity: true
+class ISBN13, Title: The Color Purple, ISBN13: 9783293000926, CheckSum Validity: true
+class ISBN10, Title: To the Lighthouse, ISBN10: 0763716677, CheckSum Validity: true
+class ISBN13, Title: The Odyssey, ISBN13: 9783293000407, CheckSum Validity: true
+class ISBN13, Title: Beloved, ISBN13: 9783293000582, CheckSum Validity: true
+class ISBN13, Title: The Catcher in the Rye, ISBN13: 9783293000704, CheckSum Validity: true
+class ISBN13, Title: Walden, ISBN13: 9783293000865, CheckSum Validity: true
+class ISBN13, Title: The Red Badge of Courage, ISBN13: 9783293000155, CheckSum Validity: true
+class ISBN10, Title: Pride and Prejudice, ISBN10: 3293000037, CheckSum Validity: true
+class ISBN13, Title: The Awakening, ISBN13: 9783293000124, CheckSum Validity: true
+class ISBN13, Title: Robinson Crusoe , ISBN13: 9783293000186, CheckSum Validity: true
+class ISBN13, Title: Selected Essays, ISBN13: 9783293000261, CheckSum Validity: true
+class ISBN10, Title: The Iliad, ISBN10: 0763725714, CheckSum Validity: true
+class ISBN13, Title: To Kill a Mockingbird, ISBN13: 9783293000506, CheckSum Validity: true
+class ISBN13, Title: Animal Farm, ISBN13: 9783293000612, CheckSum Validity: true
+class ISBN10, Title: Romeo and Juliet, ISBN10: 0763731994, CheckSum Validity: true
+class ISBN13, Title: Collected Stories, ISBN13: 9783293000940, CheckSum Validity: true
+class ISBN13, Title: Native Son, ISBN13: 9783293000995, CheckSum Validity: true
